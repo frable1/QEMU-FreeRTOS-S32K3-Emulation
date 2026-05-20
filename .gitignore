@@ -1,0 +1,9 @@
+# Ignore Python virtual environment folders
+qemu/venv
+qemu/venv_sphinx
+build
+freertos/.git
+demo/Output/
+*.elf
+*.o
+*.bin
